@@ -13,9 +13,8 @@ a{
 }
 img{
     
-    display:block;
     width:100%;
-
+    vertical-align:top;
     }
 ul,ol,li{
     list-style:none;
