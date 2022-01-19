@@ -108,7 +108,7 @@
     background-size:cover;
     text-indent: 99999px;;
     margin-bottom:11px;
-    transition:0.5s
+    transition: bodder 0.5s
 }
 
 .big-circle:hover 
@@ -262,5 +262,6 @@
     height:44px;
     background-color:#f0f0f0;
     color:#cccccc;
+    font-size:18px;
 
 }
